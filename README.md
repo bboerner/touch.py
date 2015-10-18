@@ -31,7 +31,7 @@ Install
 
 [pypi.python.org](https://pypi.python.org): `pip install touch`
 
-[download](https://github.com/russianidiot/touch.py/archive/master.zip): `python setup.py install` or `setup.py/.setup.py develop.command` 
+[download](https://github.com/russianidiot/touch.py/archive/master.zip): `python setup.py install` or `setup/.setup.py develop.command` 
 
 	
 

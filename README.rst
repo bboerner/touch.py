@@ -6,7 +6,7 @@ github.com_: :code:`pip install git+git://github.com/russianidiot/touch.py.git`
 
 pypi.python.org_: :code:`pip install touch`
 
-download_: :code:`python setup.py install` or :code:`setup.py/.setup.py develop.command`
+download_: :code:`python setup.py install` or :code:`setup/.setup.py develop.command`
 
 .. _github.com: http://github.com/russianidiot/touch.py
 .. _pypi.python.org: https://pypi.python.org/pypi/touch
