@@ -11,16 +11,5 @@ fi
 ! [ -e setup.py ] && echo "ERROR: setup.py NOT EXISTS" && exit 1
 
 # ~/.bashrc: `export -f funcname` - export function to .command
-( set -x; pypi.python.org )
+( set -x; pypi.open )
 
-IFS=
-set "$(find . -type f -name PKG-INFO)"
-if [[ -n $1 ]] && [[ $1 != *"
-"* ]]; then
-	l="$(grep "Name: " "$1" | head -1)" || exit $?
-	IFS=:;set $l;IFS=
-	name=${2/ /}
-else
-	name="$(python setup.py --name)" || exit $?
-fi
-( set -x; open https://pypi.python.org/"$name" )
