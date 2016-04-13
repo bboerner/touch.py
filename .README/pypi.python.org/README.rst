@@ -3,20 +3,31 @@
 .. image:: https://img.shields.io/pypi/pyversions/touch.svg
    :target: https://pypi.python.org/pypi/touch
 
-.. image:: https://img.shields.io/codacy/None.svg
-   :target: https://www.codacy.com/app/russianidiot-github/touch-py/dashboard
+.. image:: https://img.shields.io/pypi/pyversions/touch.svg
+   :target: https://pypi.python.org/pypi/touch
 
-.. image:: https://landscape.io/github/russianidiot/touch.py/master/landscape.svg?style=flat
+ |codacy| |landscape| |codeclimate| |scrutinizer|
+
+.. |scrutinizer| image:: https://scrutinizer-ci.com/g/russianidiot/touch.py/badges/quality-score.png?b=master
+   :target: https://scrutinizer-ci.com/g/russianidiot/touch.py/master
+   :alt: scrutinizer-ci.com
+
+.. |codacy| image:: https://img.shields.io/codacy/None.svg
+   :target: https://www.codacy.com/app/russianidiot-github/touch-py/dashboard
+   :alt: codacy.com
+
+.. |codeclimate| image:: https://img.shields.io/codeclimate/github/russianidiot/touch.py.svg
+   :target: https://codeclimate.com/github/russianidiot/touch.py
+   :alt: codeclimate.com
+
+.. |landscape| image:: https://landscape.io/github/russianidiot/touch.py/master/landscape.svg?style=flat
    :target: https://landscape.io/github/russianidiot/touch.py/master
    :alt: landscape.io
-
-.. image:: https://img.shields.io/codeship/None.svg
-   :target: https://codeship.com/projects/None
 
 Install
 ```````
 
-pip: `[sudo] pip install touch`
+:code:`[sudo] pip install touch`
 
 Usage
 `````
@@ -27,33 +38,26 @@ Usage
 
 	touch("path/to/file")
 
-Examples
-~~~~~~~~
-
-`Examples/`_ folder, 1 file = 1 example
+`Examples/`_
 
 .. _Examples/: https://github.com/russianidiot/touch.py/tree/master/Examples
 
-source code `https://github.com/russianidiot/touch.py/blob/master/py_modules/touch.py`_
+Sources:
 
-.. _https://github.com/russianidiot/touch.py/blob/master/py_modules/touch.py/: https://github.com/russianidiot/touch.py/blob/master/py_modules/touch.py
+*	`py_modules/touch.py`_
 
-Feedback
+.. _`py_modules/touch.py`: https://github.com/russianidiot/touch.py/blob/master/py_modules/touch.py
 
-|github_issues|
+Feedback |github_issues| |gitter| |github_follow|
 
 .. |github_issues| image:: https://img.shields.io/github/issues/russianidiot/touch.py.svg
 	:target: https://github.com/russianidiot/touch.py/issues
 
-|gitter|
+.. |github_follow| image:: https://img.shields.io/github/followers/russianidiot.svg?style=social&label=Follow
+	:target: https://github.com/russianidiot
 
 .. |gitter| image:: https://badges.gitter.im/russianidiot/touch.py.svg
 	:target: https://gitter.im/russianidiot/touch.py
-
-|github_follow|
-
-.. |github_follow| https://img.shields.io/github/followers/russianidiot.svg?style=social&label=Follow
-	:target: https://github.com/russianidiot
 
 ----
 
@@ -67,7 +71,7 @@ Feedback
 
 `README.rst`_  - generated with `readmemako.py`_ (python+ `mako`_ templates) and `.README`_ dotfiles
 
-.. _README.rst: https://github.com/russianidiot/touch.py/blob/master/README.rst
+.. _README.rst: https://github.com/russianidiot/touch.py/blob/master/.README/pypi.python.org/README.rst
 .. _readmemako.py: http://github.com/russianidiot/readmemako.py/
 .. _mako: http://www.makotemplates.org/
 .. _.README: https://github.com/russianidiot-dotfiles/.README
