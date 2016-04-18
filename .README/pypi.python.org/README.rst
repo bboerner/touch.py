@@ -3,16 +3,13 @@
 .. image:: https://img.shields.io/pypi/pyversions/touch.svg
    :target: https://pypi.python.org/pypi/touch
 
-.. image:: https://img.shields.io/pypi/pyversions/touch.svg
-   :target: https://pypi.python.org/pypi/touch
-
- |codacy| |landscape| |codeclimate| |scrutinizer|
+|codacy| |landscape| |codeclimate| |scrutinizer|
 
 .. |scrutinizer| image:: https://scrutinizer-ci.com/g/russianidiot/touch.py/badges/quality-score.png?b=master
    :target: https://scrutinizer-ci.com/g/russianidiot/touch.py/master
    :alt: scrutinizer-ci.com
 
-.. |codacy| image:: https://img.shields.io/codacy/None.svg
+.. |codacy| image:: https://img.shields.io/codacy/62edd379505f4df5b5551516f1e67d1d.svg
    :target: https://www.codacy.com/app/russianidiot-github/touch-py/dashboard
    :alt: codacy.com
 
@@ -32,11 +29,11 @@ Install
 Usage
 `````
 
-.. code-block:: python
-
-	from touch import *
-
-	touch("path/to/file")
+.. code:: python
+	
+	>>> from touch import touch
+	
+	>>> touch(path)
 
 `Examples/`_
 

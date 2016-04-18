@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 import os
-from os.path import *
+from os.path import dirname, exists
 # me
-from fullpath import *
-from public import *
+from fullpath import fullpath
+from public import public
 
 @public
 def touch(path):
@@ -16,11 +16,3 @@ def touch(path):
         os.utime(path,None)
     except:
         open(path,'a').close()
-
-if __name__=="__main__":
-    touch(__file__)
-    touch("~/testtest") # fullpath
-    os.unlink(fullpath("~/testtest"))
-
-    touch(None) # skip
-

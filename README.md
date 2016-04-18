@@ -1,8 +1,9 @@
 ![python](https://img.shields.io/badge/language-python-blue.svg)[![PyPI](https://img.shields.io/pypi/pyversions/touch.svg)](https://pypi.python.org/pypi/touch)
-[![landscape.io](https://landscape.io/github/russianidiot/touch.py/master/landscape.svg?style=flat)](https://landscape.io/github/russianidiot/touch.py/master)[![Code Climate](https://img.shields.io/codeclimate/github/russianidiot/touch.py.svg)](https://codeclimate.com/github/russianidiot/touch.py)
+
+[![codacy.com](https://img.shields.io/codacy/62edd379505f4df5b5551516f1e67d1d.svg)](https://www.codacy.com/app/russianidiot-github/touch-py/dashboard)[![landscape.io](https://landscape.io/github/russianidiot/touch.py/master/landscape.svg?style=flat)](https://landscape.io/github/russianidiot/touch.py/master)[![Code Climate](https://img.shields.io/codeclimate/github/russianidiot/touch.py.svg)](https://codeclimate.com/github/russianidiot/touch.py)
 [![Code Health](https://scrutinizer-ci.com/g/russianidiot/touch.py/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/russianidiot/touch.py)
 
-[![Build Status](https://travis-ci.org/russianidiot/touch.py.svg?branch=master)](https://travis-ci.org/russianidiot/touch.py)[![drone.io](https://drone.io/github.com/russianidiot/touch.py/status.png)](https://drone.io/github.com/russianidiot/touch.py)[![codeship](https://img.shields.io/codeship/4c03d920-e18a-0133-e590-4a308660d35a.svg)](https://codeship.com/projects/145367)[![Wercker](https://img.shields.io/wercker/ci/russianidiot/touch.py.svg)](https://app.wercker.com/#applications/None/)
+[![Build Status](https://travis-ci.org/russianidiot/touch.py.svg?branch=master)](https://travis-ci.org/russianidiot/touch.py)[![drone.io](https://drone.io/github.com/russianidiot/touch.py/status.png)](https://drone.io/github.com/russianidiot/touch.py)[![Wercker](https://img.shields.io/wercker/ci/russianidiot/touch.py.svg)](https://app.wercker.com/#applications/None/)
 
 [![PyPI](https://img.shields.io/pypi/v/touch.svg)](https://pypi.python.org/pypi/touch)
 [![PyPI](https://img.shields.io/pypi/dm/touch.svg)](https://pypi.python.org/pypi/touch)
@@ -20,9 +21,9 @@ pip:
 #### Usage
 
 ```python
-from touch import *
+>>> from touch import touch
 
-touch("path/to/file")
+>>> touch(path)
 ```
 
 [Examples/](https://github.com/russianidiot/touch.py/tree/master/Examples)
