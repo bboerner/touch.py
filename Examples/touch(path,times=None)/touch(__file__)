@@ -1,8 +1,4 @@
 #!/usr/bin/env python
 from touch import *
 
-def main():
-	touch(__file__)
-
-if __name__=="__main__":
-    main()
+touch(__file__)
