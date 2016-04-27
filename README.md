@@ -4,6 +4,7 @@
 [![Code Health](https://scrutinizer-ci.com/g/russianidiot/touch.py/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/russianidiot/touch.py)
 
 [![Build Status](https://travis-ci.org/russianidiot/touch.py.svg?branch=master)](https://travis-ci.org/russianidiot/touch.py)[![drone.io](https://drone.io/github.com/russianidiot/touch.py/status.png)](https://drone.io/github.com/russianidiot/touch.py)[![Wercker](https://img.shields.io/wercker/ci/russianidiot/touch.py.svg)](https://app.wercker.com/#applications/None/)
+[![codecov.io](https://codecov.io/github/russianidiot/touch.py/coverage.svg?branch=master)](https://codecov.io/github/russianidiot/touch.py?branch=master)
 
 [![PyPI](https://img.shields.io/pypi/v/touch.svg)](https://pypi.python.org/pypi/touch)
 [![PyPI](https://img.shields.io/pypi/dm/touch.svg)](https://pypi.python.org/pypi/touch)
