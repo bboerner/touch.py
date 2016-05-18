@@ -14,5 +14,5 @@ def touch(path):
         os.makedirs(dirname(path))
     try:
         os.utime(path,None)
-    except:
+    except Exception:
         open(path,'a').close()
