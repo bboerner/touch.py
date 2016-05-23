@@ -3,7 +3,7 @@
 [![codacy.com](https://img.shields.io/codacy/62edd379505f4df5b5551516f1e67d1d.svg)](https://www.codacy.com/app/russianidiot-github/touch-py/dashboard)[![landscape.io](https://landscape.io/github/russianidiot/touch.py/master/landscape.svg?style=flat)](https://landscape.io/github/russianidiot/touch.py/master)[![Code Climate](https://img.shields.io/codeclimate/github/russianidiot/touch.py.svg)](https://codeclimate.com/github/russianidiot/touch.py)
 [![Code Health](https://scrutinizer-ci.com/g/russianidiot/touch.py/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/russianidiot/touch.py)
 
-[![Build Status](https://travis-ci.org/russianidiot/touch.py.svg?branch=master)](https://travis-ci.org/russianidiot/touch.py)[![drone.io](https://drone.io/github.com/russianidiot/touch.py/status.png)](https://drone.io/github.com/russianidiot/touch.py)[![Wercker](https://img.shields.io/wercker/ci/russianidiot/touch.py.svg)](https://app.wercker.com/#applications/570abb0b3f1a891374020621/)
+[![Build Status](https://travis-ci.org/russianidiot/touch.py.svg?branch=master)](https://travis-ci.org/russianidiot/touch.py)[![drone.io](https://drone.io/github.com/russianidiot/touch.py/status.png)](https://drone.io/github.com/russianidiot/touch.py)[![Wercker](https://app.wercker.com/status/f4aad433c23eabaf67c27cd8ca6154f9/s/master)](https://app.wercker.com/#applications/570abb0b3f1a891374020621/)
 [![codecov.io](https://codecov.io/github/russianidiot/touch.py/coverage.svg?branch=master)](https://codecov.io/github/russianidiot/touch.py?branch=master)
 
 [![PyPI](https://img.shields.io/pypi/v/touch.svg)](https://pypi.python.org/pypi/touch)
