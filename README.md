@@ -1,4 +1,6 @@
-![python](https://img.shields.io/badge/language-python-blue.svg)[![PyPI](https://img.shields.io/pypi/pyversions/touch.svg)](https://pypi.python.org/pypi/touch)
+![python](https://img.shields.io/badge/language-python-blue.svg)
+
+[![PyPI](https://img.shields.io/pypi/pyversions/touch.svg)](https://pypi.python.org/pypi/touch)[![PyPI](https://img.shields.io/pypi/v/touch.svg)](https://pypi.python.org/pypi/touch)
 
 [![codacy.com](https://api.codacy.com/project/badge/Grade/62edd379505f4df5b5551516f1e67d1d)](https://www.codacy.com/app/russianidiot-github/touch-py/dashboard)
 [![landscape.io](https://landscape.io/github/russianidiot/touch.py/master/landscape.svg?style=flat)](https://landscape.io/github/russianidiot/touch.py)
@@ -13,12 +15,8 @@
 [![travis-ci.org](https://travis-ci.org/russianidiot/touch.py.svg)](https://travis-ci.org/russianidiot/touch.py)
 [![wercker.com](https://app.wercker.com/status/f4aad433c23eabaf67c27cd8ca6154f9/s/master)](https://app.wercker.com/#applications/570abb0b3f1a891374020621)
 
-[![PyPI](https://img.shields.io/pypi/v/touch.svg)](https://pypi.python.org/pypi/touch)
-[![PyPI](https://img.shields.io/pypi/dm/touch.svg)](https://pypi.python.org/pypi/touch)
-[![PyPI](https://img.shields.io/pypi/dd/touch.svg)](https://pypi.python.org/pypi/touch)
-
 <p align="center">
-    <b>touch(path) - touch(1) python implementation</b>
+    <b>touch(path) - touch python implementation</b>
 </p>
 
 #### Install
