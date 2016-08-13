@@ -1,25 +1,4 @@
-.. image:: https://img.shields.io/badge/language-python-blue.svg
-
-.. image:: https://img.shields.io/pypi/pyversions/touch.svg
-   :target: https://pypi.python.org/pypi/touch
-
-|codacy| |landscape| |codeclimate| |scrutinizer|
-
-.. |scrutinizer| image:: https://scrutinizer-ci.com/g/russianidiot/touch.py/badges/quality-score.png?b=master
-   :target: https://scrutinizer-ci.com/g/russianidiot/touch.py/
-   :alt: scrutinizer-ci.com
-
-.. |codacy| image:: https://api.codacy.com/project/badge/Grade/62edd379505f4df5b5551516f1e67d1d
-   :target: https://www.codacy.com/app/russianidiot-github/touch-py/dashboard
-   :alt: codacy.com
-
-.. |codeclimate| image:: https://codeclimate.com/github/russianidiot/touch.py/badges/gpa.svg
-   :target: https://codeclimate.com/github/russianidiot/touch.py
-   :alt: codeclimate.com
-
-.. |landscape| image:: https://landscape.io/github/russianidiot/touch.py/master/landscape.svg?style=flat
-   :target: https://landscape.io/github/russianidiot/touch.py/master/landscape.svg?style=flat
-   :alt: landscape.io
+.. README generated with readmemako.py (github.com/russianidiot/readme-mako.py) and .README dotfiles (github.com/russianidiot-dotfiles/.README)
 
 Install
 ```````
@@ -30,7 +9,7 @@ Usage
 `````
 
 .. code:: python
-	
+
 	>>> from touch import touch
 	
 	>>> touch(path)
@@ -38,12 +17,6 @@ Usage
 `Examples/`_
 
 .. _Examples/: https://github.com/russianidiot/touch.py/tree/master/Examples
-
-Sources:
-
-*	`py_modules/touch.py`_
-
-.. _`py_modules/touch.py`: https://github.com/russianidiot/touch.py/blob/master/py_modules/touch.py
 
 Feedback |github_issues| |gitter| |github_follow|
 
@@ -55,20 +28,3 @@ Feedback |github_issues| |gitter| |github_follow|
 
 .. |gitter| image:: https://badges.gitter.im/russianidiot/touch.py.svg
 	:target: https://gitter.im/russianidiot/touch.py
-
-----
-
-`russianidiot.github.io/python/`_  - Python packages
-
-.. _russianidiot.github.io/python/: http://russianidiot.github.io/python/
-
-`russianidiot.github.io/cli/`_  - command line scripts
-
-.. _russianidiot.github.io/cli/: http://russianidiot.github.io/cli/
-
-`README.rst`_  - generated with `readmemako.py`_ (python+ `mako`_ templates) and `.README`_ dotfiles
-
-.. _README.rst: https://github.com/russianidiot/touch.py/blob/master/README.rst
-.. _readmemako.py: http://github.com/russianidiot/readmemako.py/
-.. _mako: http://www.makotemplates.org/
-.. _.README: https://github.com/russianidiot-dotfiles/.README
