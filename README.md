@@ -15,7 +15,7 @@ README generated with readmemako.py (github.com/russianidiot/readme-mako.py) and
 [![semaphoreci.com](https://semaphoreci.com/api/v1/russianidiot/touch-py/branches/master/shields_badge.svg)](https://semaphoreci.com/russianidiot/touch-py)
 [![shippable.com](https://api.shippable.com/projects/57068cbc2a8192902e1bbbf7/badge?branch=master)](https://app.shippable.com/projects/57068cbc2a8192902e1bbbf7/status/)
 [![travis-ci.org](https://api.travis-ci.org/russianidiot/touch.py.svg)](https://travis-ci.org/russianidiot/touch.py)
-[![wercker.com](https://app.wercker.com/status/f4aad433c23eabaf67c27cd8ca6154f9/s/master)](https://app.wercker.com/#applications/570abb0b3f1a891374020621)
+[![wercker.com](https://app.wercker.com/status/f4aad433c23eabaf67c27cd8ca6154f9/s/master)](https://app.wercker.com/russianidiot/touch.py/)
 
 <p align="center">
     <b>touch(path) - touch python implementation</b>
